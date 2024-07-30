@@ -5,13 +5,7 @@
 
 The purpose of this project is to identify and address vulnerabilities within a system to enhance its overall security posture. This project focuses on detecting common and critical vulnerabilities, analyzing their potential impact, and implementing effective remediation techniques. By employing a combination of automated tools and manual assessments, the project aims to provide a comprehensive evaluation of security weaknesses and offer practical solutions to mitigate these risks.
 
-## Key objectives include:
 
-    Vulnerability Identification: Using various scanning tools and techniques to uncover security flaws and weaknesses in the system.
-    Risk Analysis: Evaluating the severity and potential impact of identified vulnerabilities on the system and its data.
-    Remediation Techniques: Developing and applying strategies to fix vulnerabilities, improve security configurations, and strengthen defenses against potential exploits.
-    This project provides valuable insights into maintaining robust security measures and ensuring the integrity and protection of sensitive data.
-    
 ## Features
 
 - Automated Vulnerability Scanning: Utilizes Google Cloud Security Command Center and other tools to automatically scan and detect vulnerabilities in GCP resources and configurations.
